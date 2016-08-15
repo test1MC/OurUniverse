@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Name="HTML5"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="6/19/2013 12:18:04 PM"
+      LastPublished="" />
+    <Target
+      Name="HtmlHelp"
+      Type="HTML Help"
+      Build="true"
+      LastBuilt="6/19/2013 8:50:33 AM"
+      LastPublished="" />
+    <Target
+      Name="pdf"
+      Type="PDF"
+      LastBuilt="6/19/2013 8:52:05 AM"
+      LastPublished="" />
+    <Target
+      Name="webHelp"
+      Type="WebHelp"
+      Build="true"
+      LastBuilt="6/19/2013 12:08:29 PM"
+      LastPublished="" />
+    <Target
+      Name="word"
+      Type="Word"
+      LastBuilt="6/19/2013 11:08:55 AM"
+      LastPublished="" />
+  </Targets>
+</CatapultBatchTarget>

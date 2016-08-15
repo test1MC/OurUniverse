@@ -1,0 +1,139 @@
+/*<meta />*/
+
+p.MyStyle
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin: 0px;
+}
+
+img
+{
+	border: inset 5px #708090;
+	padding: 0px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 15px;
+	mc-popup-height: 100%;
+	mc-popup-width: 100%;
+	mc-open-image-alt-text: Open image;
+	mc-closed-image-alt-text: Close Image;
+}
+
+a.Popup
+{
+	
+}
+
+body
+{
+	background-color: #000000;
+	font-family: Century;
+	color: #00bfff;
+}
+
+h1
+{
+	color: #00bfff;
+	font-family: Century;
+	text-align: center;
+}
+
+MadCap|popup:hover
+{
+	color: #00bfff;
+}
+
+MadCap|popupBody
+{
+	background-color: #dcdcdc;
+	color: #2e8b57;
+	height: auto;
+	width: auto;
+}
+
+MadCap|glossaryTerm
+{
+	color: #2e8b57;
+	font-family: serif;
+}
+
+MadCap|glossaryTerm:hover
+{
+	background-color: #ffffff;
+}
+
+h2
+{
+	font-family: serif;
+	color: #6495ed;
+}
+
+p
+{
+	font-family: Century;
+	font-size: 16pt;
+}
+
+p.note
+{
+	font-family: Century;
+	font-size: 12pt;
+}
+
+a:link
+{
+	color: #ffff00;
+	font-size: 14pt;
+	font-family: Century;
+}
+
+a:visited
+{
+	color: #b22222;
+}
+
+table.JmoonsTable
+{
+	width: 100%;
+	float: left;
+	clear: left;
+}
+
+MadCap|popup
+{
+	mc-popup-height: auto;
+	mc-popup-width: auto;
+	height: auto;
+	width: auto;
+}
+
+img.floatLeft
+{
+	float: left;
+}
+
+MadCap|footnote
+{
+	
+}
+
+@media print
+{
+	img.floatLeft
+	{
+		border: inset 47px #708090;
+	}
+
+	img
+	{
+		border: inset 5px #90ee90;
+	}
+}
+
+MadCap|tocProxy
+{
+	color: #daa520;
+}
+

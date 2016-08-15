@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultReportFile
+  Tables="unused-variables,broken-bookmarks,topics-not-linked,topics-with-concept-links,topics-with-concept-links-without-concept,topics-with-snippet-conditions,unused-styles,unused-snippets,unused-multimedia,concept-links,unused-bookmarks,used-bookmarks,unused-images,unused-file-tags,unused-csh-ids,empty-content-folders,files-with-concepts,files-with-condition-tags,files-without-concepts,unused-content,conditional-expressions,undefined-condition-tags,unused-condition-tags,used-condition-tags,used-concepts,used-search-filters"
+  Comment="This template includes all reports related to unused items. Once the new report file is created, you can enable or disable any report from any group.">
+  <Stylesheet />
+</CatapultReportFile>

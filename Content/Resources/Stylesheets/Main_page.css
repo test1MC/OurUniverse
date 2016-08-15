@@ -1,0 +1,85 @@
+/*<meta />*/
+
+p.MyStyle
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+body
+{
+	background-image: url('../Images/deep_field_background.jpg');
+	color: #00bfff;
+	font-family: Century;
+}
+
+h1
+{
+	color: #00bfff;
+	font-family: Century;
+}
+
+p.margin
+{
+	padding-left: 40px;
+}
+
+p
+{
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 20px;
+}
+
+MadCap|glossaryTerm.Popup:hover
+{
+	color: #00ff7f;
+	font-family: Forte;
+}
+
+MadCap|glossaryTerm
+{
+	color: #2e8b57;
+	font-family: serif;
+}
+
+MadCap|tocProxy
+{
+	color: #daa520;
+	border: inset 3px #87cefa;
+	font-size: 8pt;
+	height: 300px;
+	width: auto;
+}
+
+p.TOC1
+{
+	color: #daa520;
+	font-size: 8pt;
+	margin: 0.50em;
+	height: 300px;
+	width: auto;
+}
+
+MadCap|miniTocProxy
+{
+	color: #daa520;
+	background-color: #dcdcdc;
+}
+
+p.MiniTOC1
+{
+	color: #daa520;
+}
+

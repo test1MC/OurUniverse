@@ -1,0 +1,882 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadBuild V11 Generate HtmlHelp" Date="2014-08-19T14:23:33.1064019-07:00">
+    <Messages>Compiling target HtmlHelp...
+Removing previously generated content...
+Checking if auto-sync of any import file is needed...
+Loading skin info...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Collecting linked (merged) help system info...
+Collecting source files...
+Processing source files...
+Processing CSS: Resources\Stylesheets\jMoons.css...
+Processing CSS: Resources\Stylesheets\Main_page.css...
+Processing CSS: Resources\Stylesheets\Messier_pages.css...
+Processing CSS: Resources\Stylesheets\Modern.css...
+Processing CSS: Resources\Stylesheets\Styles.css...
+Generating output files...
+Processing topic: Our Universe.htm...
+Generated Our Universe.htm
+Processing topic: Solar System\Our Solar System.htm...
+Generated Solar System\Our Solar System.htm
+Processing topic: Solar System\Earth.htm...
+Generated Solar System\Earth.htm
+Processing topic: Solar System\Jupiter.htm...
+Generated Solar System\Jupiter.htm
+Processing topic: Solar System\Mars.htm...
+Generated Solar System\Mars.htm
+Processing topic: Solar System\Mercury.htm...
+Generated Solar System\Mercury.htm
+Processing topic: Solar System\Neptune.htm...
+Generated Solar System\Neptune.htm
+Processing topic: Solar System\Pluto.htm...
+Generated Solar System\Pluto.htm
+Processing topic: Solar System\Saturn.htm...
+Generated Solar System\Saturn.htm
+Processing topic: Solar System\Uranus.htm...
+Generated Solar System\Uranus.htm
+Processing topic: Solar System\Venus.htm...
+Generated Solar System\Venus.htm
+Processing topic: Messier objects\Messier Objects.htm...
+Generated Messier objects\Messier Objects.htm
+Processing topic: Messier objects\M1.htm...
+Generated Messier objects\M1.htm
+Processing topic: Messier objects\M2.htm...
+Generated Messier objects\M2.htm
+Processing topic: Messier objects\M3.htm...
+Generated Messier objects\M3.htm
+Processing topic: Messier objects\M4.htm...
+Generated Messier objects\M4.htm
+Processing topic: Messier objects\M5.htm...
+Generated Messier objects\M5.htm
+Processing topic: Messier objects\M6.htm...
+Generated Messier objects\M6.htm
+Processing topic: Messier objects\M7.htm...
+Generated Messier objects\M7.htm
+Processing topic: Messier objects\M8.htm...
+Generated Messier objects\M8.htm
+Processing topic: Messier objects\M9.htm...
+Generated Messier objects\M9.htm
+Processing topic: Messier objects\M10.htm...
+Generated Messier objects\M10.htm
+Processing topic: Messier objects\M11.htm...
+Generated Messier objects\M11.htm
+Processing topic: Messier objects\M12.htm...
+Generated Messier objects\M12.htm
+Processing topic: Messier objects\M13.htm...
+Generated Messier objects\M13.htm
+Processing topic: Messier objects\M14.htm...
+Generated Messier objects\M14.htm
+Processing topic: Messier objects\M15.htm...
+Generated Messier objects\M15.htm
+Processing topic: Messier objects\M16.htm...
+Generated Messier objects\M16.htm
+Processing topic: Messier objects\M17.htm...
+Generated Messier objects\M17.htm
+Processing topic: Messier objects\M18.htm...
+Generated Messier objects\M18.htm
+Processing topic: Messier objects\M19.htm...
+Generated Messier objects\M19.htm
+Processing topic: Messier objects\M20.htm...
+Generated Messier objects\M20.htm
+Processing topic: Messier objects\M21.htm...
+Generated Messier objects\M21.htm
+Processing topic: Messier objects\M22.htm...
+Generated Messier objects\M22.htm
+Processing topic: Messier objects\M23.htm...
+Generated Messier objects\M23.htm
+Processing topic: Messier objects\M24.htm...
+Generated Messier objects\M24.htm
+Processing topic: Messier objects\M25.htm...
+Generated Messier objects\M25.htm
+Processing topic: Messier objects\M26.htm...
+Generated Messier objects\M26.htm
+Processing topic: Messier objects\M27.htm...
+Generated Messier objects\M27.htm
+Processing topic: Messier objects\M28.htm...
+Generated Messier objects\M28.htm
+Processing topic: Messier objects\M29.htm...
+Generated Messier objects\M29.htm
+Processing topic: Messier objects\M30.htm...
+Generated Messier objects\M30.htm
+Processing topic: Messier objects\M31.htm...
+Generated Messier objects\M31.htm
+Processing topic: Messier objects\M32.htm...
+Generated Messier objects\M32.htm
+Processing topic: Messier objects\M33.htm...
+Generated Messier objects\M33.htm
+Processing topic: Messier objects\M34.htm...
+Generated Messier objects\M34.htm
+Processing topic: Messier objects\M35.htm...
+Generated Messier objects\M35.htm
+Processing topic: Messier objects\M36.htm...
+Generated Messier objects\M36.htm
+Processing topic: Messier objects\M37.htm...
+Generated Messier objects\M37.htm
+Processing topic: Messier objects\M38.htm...
+Generated Messier objects\M38.htm
+Processing topic: Messier objects\M39.htm...
+Generated Messier objects\M39.htm
+Processing topic: Messier objects\M40.htm...
+Generated Messier objects\M40.htm
+Processing topic: Messier objects\M41.htm...
+Generated Messier objects\M41.htm
+Processing topic: Messier objects\M42.htm...
+Generated Messier objects\M42.htm
+Processing topic: Messier objects\M43.htm...
+Generated Messier objects\M43.htm
+Processing topic: Messier objects\M44.htm...
+Generated Messier objects\M44.htm
+Processing topic: Messier objects\M45.htm...
+Generated Messier objects\M45.htm
+Processing topic: Messier objects\M46.htm...
+Generated Messier objects\M46.htm
+Processing topic: Messier objects\M47.htm...
+Generated Messier objects\M47.htm
+Processing topic: Messier objects\M48.htm...
+Generated Messier objects\M48.htm
+Processing topic: Messier objects\M49.htm...
+Generated Messier objects\M49.htm
+Processing topic: Messier objects\M50.htm...
+Generated Messier objects\M50.htm
+Processing topic: Messier objects\M51.htm...
+Generated Messier objects\M51.htm
+Processing topic: Messier objects\M52.htm...
+Generated Messier objects\M52.htm
+Processing topic: Messier objects\M53.htm...
+Generated Messier objects\M53.htm
+Processing topic: Messier objects\M54.htm...
+Generated Messier objects\M54.htm
+Processing topic: Messier objects\M55.htm...
+Generated Messier objects\M55.htm
+Processing topic: Messier objects\M56.htm...
+Generated Messier objects\M56.htm
+Processing topic: Messier objects\M57.htm...
+Generated Messier objects\M57.htm
+Processing topic: Messier objects\M58.htm...
+Generated Messier objects\M58.htm
+Processing topic: Messier objects\M59.htm...
+Generated Messier objects\M59.htm
+Processing topic: Messier objects\M60.htm...
+Generated Messier objects\M60.htm
+Processing topic: Messier objects\M61.htm...
+Generated Messier objects\M61.htm
+Processing topic: Messier objects\M62.htm...
+Generated Messier objects\M62.htm
+Processing topic: Messier objects\M63.htm...
+Generated Messier objects\M63.htm
+Processing topic: Messier objects\M64.htm...
+Generated Messier objects\M64.htm
+Processing topic: Messier objects\M65.htm...
+Generated Messier objects\M65.htm
+Processing topic: Messier objects\M66.htm...
+Generated Messier objects\M66.htm
+Processing topic: Messier objects\M67.htm...
+Generated Messier objects\M67.htm
+Processing topic: Messier objects\M68.htm...
+Generated Messier objects\M68.htm
+Processing topic: Messier objects\M69.htm...
+Generated Messier objects\M69.htm
+Processing topic: Messier objects\M70.htm...
+Generated Messier objects\M70.htm
+Processing topic: Messier objects\M71.htm...
+Generated Messier objects\M71.htm
+Processing topic: Messier objects\M72.htm...
+Generated Messier objects\M72.htm
+Processing topic: Messier objects\M73.htm...
+Generated Messier objects\M73.htm
+Processing topic: Messier objects\M74.htm...
+Generated Messier objects\M74.htm
+Processing topic: Messier objects\M75.htm...
+Generated Messier objects\M75.htm
+Processing topic: Messier objects\M76.htm...
+Generated Messier objects\M76.htm
+Processing topic: Messier objects\M77.htm...
+Generated Messier objects\M77.htm
+Processing topic: Messier objects\M78.htm...
+Generated Messier objects\M78.htm
+Processing topic: Messier objects\M79.htm...
+Generated Messier objects\M79.htm
+Processing topic: Messier objects\M80.htm...
+Generated Messier objects\M80.htm
+Processing topic: Messier objects\M81.htm...
+Generated Messier objects\M81.htm
+Processing topic: Messier objects\M82.htm...
+Generated Messier objects\M82.htm
+Processing topic: Messier objects\M83.htm...
+Generated Messier objects\M83.htm
+Processing topic: Messier objects\M84.htm...
+Generated Messier objects\M84.htm
+Processing topic: Messier objects\M85.htm...
+Generated Messier objects\M85.htm
+Processing topic: Messier objects\M86.htm...
+Generated Messier objects\M86.htm
+Processing topic: Messier objects\M87.htm...
+Generated Messier objects\M87.htm
+Processing topic: Messier objects\M88.htm...
+Generated Messier objects\M88.htm
+Processing topic: Messier objects\M89.htm...
+Generated Messier objects\M89.htm
+Processing topic: Messier objects\M90.htm...
+Generated Messier objects\M90.htm
+Processing topic: Messier objects\M91.htm...
+Generated Messier objects\M91.htm
+Processing topic: Messier objects\M92.htm...
+Generated Messier objects\M92.htm
+Processing topic: Messier objects\M93.htm...
+Generated Messier objects\M93.htm
+Processing topic: Messier objects\M94.htm...
+Generated Messier objects\M94.htm
+Processing topic: Messier objects\M95.htm...
+Generated Messier objects\M95.htm
+Processing topic: Messier objects\M96.htm...
+Generated Messier objects\M96.htm
+Processing topic: Messier objects\M97.htm...
+Generated Messier objects\M97.htm
+Processing topic: Messier objects\M98.htm...
+Generated Messier objects\M98.htm
+Processing topic: Messier objects\M99.htm...
+Generated Messier objects\M99.htm
+Processing topic: Messier objects\M100.htm...
+Generated Messier objects\M100.htm
+Processing topic: Messier objects\M101.htm...
+Generated Messier objects\M101.htm
+Processing topic: Messier objects\M102.htm...
+Generated Messier objects\M102.htm
+Processing topic: Messier objects\M103.htm...
+Generated Messier objects\M103.htm
+Processing topic: Messier objects\M104.htm...
+Generated Messier objects\M104.htm
+Processing topic: Messier objects\M105.htm...
+Generated Messier objects\M105.htm
+Processing topic: Messier objects\M106.htm...
+Generated Messier objects\M106.htm
+Processing topic: Messier objects\M107.htm...
+Generated Messier objects\M107.htm
+Processing topic: Messier objects\M108.htm...
+Generated Messier objects\M108.htm
+Processing topic: Messier objects\M109.htm...
+Generated Messier objects\M109.htm
+Processing topic: Messier objects\M110.htm...
+Generated Messier objects\M110.htm
+Processing topic: Famous NGC Objects\Famous NGC Objects.htm...
+Generated Famous NGC Objects\Famous NGC Objects.htm
+Processing topic: Famous NGC Objects\NGC4565.htm...
+Generated Famous NGC Objects\NGC4565.htm
+Processing topic: Famous NGC Objects\NGC6543.htm...
+Generated Famous NGC Objects\NGC6543.htm
+Processing topic: Famous NGC Objects\NGC7662.htm...
+Generated Famous NGC Objects\NGC7662.htm
+Processing topic: Famous NGC Objects\NGC7009.htm...
+Generated Famous NGC Objects\NGC7009.htm
+Processing topic: Famous NGC Objects\NGC6826.htm...
+Generated Famous NGC Objects\NGC6826.htm
+Processing topic: Solar System\Our Moon.htm...
+Generated Solar System\Our Moon.htm
+Processing topic: Solar System\Solar System Map.htm...
+Generated Solar System\Solar System Map.htm
+Generating output skins...
+Generating alias file...
+Processing audio links...
+Generating final TOC...
+Generating concept and keyword anchors in output files...
+Generating Index...
+Generating Concepts...
+Resolving links in output files...
+Generating Search Database...
+Generating final output...
+Running CHM compiler...
+Microsoft HTML Help Compiler 4.74.8702
+Compiling c:\Users\dspencer\Documents\My Projects\Our Universe\Output\dspencer\Temporary\HtmlHelp\Content\HtmlHelp.chm
+Our Universe.htm
+Solar System\Our Solar System.htm
+Solar System\Earth.htm
+Solar System\Jupiter.htm
+Solar System\Mars.htm
+Solar System\Mercury.htm
+Solar System\Neptune.htm
+Solar System\Pluto.htm
+Solar System\Saturn.htm
+Solar System\Uranus.htm
+Solar System\Venus.htm
+Messier objects\Messier Objects.htm
+Messier objects\M1.htm
+Messier objects\M2.htm
+Messier objects\M3.htm
+Messier objects\M4.htm
+Messier objects\M5.htm
+Messier objects\M6.htm
+Messier objects\M7.htm
+Messier objects\M8.htm
+Messier objects\M9.htm
+Messier objects\M10.htm
+Messier objects\M11.htm
+Messier objects\M12.htm
+Messier objects\M13.htm
+Messier objects\M14.htm
+Messier objects\M15.htm
+Messier objects\M16.htm
+Messier objects\M17.htm
+Messier objects\M18.htm
+Messier objects\M19.htm
+Messier objects\M20.htm
+Messier objects\M21.htm
+Messier objects\M22.htm
+Messier objects\M23.htm
+Messier objects\M24.htm
+Messier objects\M25.htm
+Messier objects\M26.htm
+Messier objects\M27.htm
+Messier objects\M28.htm
+Messier objects\M29.htm
+Messier objects\M30.htm
+Messier objects\M31.htm
+Messier objects\M32.htm
+Messier objects\M33.htm
+Messier objects\M34.htm
+Messier objects\M35.htm
+Messier objects\M36.htm
+Messier objects\M37.htm
+Messier objects\M38.htm
+Messier objects\M39.htm
+Messier objects\M40.htm
+Messier objects\M41.htm
+Messier objects\M42.htm
+Messier objects\M43.htm
+Messier objects\M44.htm
+Messier objects\M45.htm
+Messier objects\M46.htm
+Messier objects\M47.htm
+Messier objects\M48.htm
+Messier objects\M49.htm
+Messier objects\M50.htm
+Messier objects\M51.htm
+Messier objects\M52.htm
+Messier objects\M53.htm
+Messier objects\M54.htm
+Messier objects\M55.htm
+Messier objects\M56.htm
+Messier objects\M57.htm
+Messier objects\M58.htm
+Messier objects\M59.htm
+Messier objects\M60.htm
+Messier objects\M61.htm
+Messier objects\M62.htm
+Messier objects\M63.htm
+Messier objects\M64.htm
+Messier objects\M65.htm
+Messier objects\M66.htm
+Messier objects\M67.htm
+Messier objects\M68.htm
+Messier objects\M69.htm
+Messier objects\M70.htm
+Messier objects\M71.htm
+Messier objects\M72.htm
+Messier objects\M73.htm
+Messier objects\M74.htm
+Messier objects\M75.htm
+Messier objects\M76.htm
+Messier objects\M77.htm
+Messier objects\M78.htm
+Messier objects\M79.htm
+Messier objects\M80.htm
+Messier objects\M81.htm
+Messier objects\M82.htm
+Messier objects\M83.htm
+Messier objects\M84.htm
+Messier objects\M85.htm
+Messier objects\M86.htm
+Messier objects\M87.htm
+Messier objects\M88.htm
+Messier objects\M89.htm
+Messier objects\M90.htm
+Messier objects\M91.htm
+Messier objects\M92.htm
+Messier objects\M93.htm
+Messier objects\M94.htm
+Messier objects\M95.htm
+Messier objects\M96.htm
+Messier objects\M97.htm
+Messier objects\M98.htm
+Messier objects\M99.htm
+Messier objects\M100.htm
+Messier objects\M101.htm
+Messier objects\M102.htm
+Messier objects\M103.htm
+Messier objects\M104.htm
+Messier objects\M105.htm
+Messier objects\M106.htm
+Messier objects\M107.htm
+Messier objects\M108.htm
+Messier objects\M109.htm
+Messier objects\M110.htm
+Famous NGC Objects\Famous NGC Objects.htm
+Famous NGC Objects\NGC4565.htm
+Famous NGC Objects\NGC6543.htm
+Famous NGC Objects\NGC7662.htm
+Famous NGC Objects\NGC7009.htm
+Famous NGC Objects\NGC6826.htm
+Solar System\Our Moon.htm
+Solar System\Solar System Map.htm
+Resources\Images\10_Leda.jpg
+Resources\Images\20060225-jupiter-anim.gif
+Resources\Images\320.jpg
+Resources\Images\354439main_road2apollo-16_946-710.jpg
+Resources\Images\adrastea1.jpg
+Resources\Images\Ananke.jpg
+Resources\Images\AndromedaRGB12small.jpg
+Resources\Images\apollo-16-image-of-lunar-surface-stocktrek-images.jpg
+Resources\Images\apollo15_lunar_surface.jpg
+Resources\Images\apollo_18_02.jpg
+Resources\Images\AS11-40-5875.jpg
+Resources\Images\Callisto.jpg
+Resources\Images\caloris2.jpg
+Resources\Images\carme.jpg
+Resources\Images\catseye.jpg
+Resources\Images\Catseyeandmore.jpg
+Resources\Images\crab_vlt_big_m1_lk.jpg
+Resources\Images\crab_vlt_big_m1_lk.png
+Resources\Images\deep_field_background.jpg
+Resources\Images\detail_neptune.jpg
+Resources\Images\Earth's_Magnetic_Field_Photos.jpg
+Resources\Images\earth.jpg
+Resources\Images\elara.jpg
+Resources\Images\europa-jupiter-1152x864.jpg
+Resources\Images\farside.gif
+Resources\Images\ganymede.jpg
+Resources\Images\hellas.jpg
+Resources\Images\Himalia-moon.jpg
+Resources\Images\icon.png
+Resources\Images\io-enh.gif
+Resources\Images\jupite&amp;moonsr.jpg
+Resources\Images\jupiter-clear-view.jpg
+Resources\Images\Jupiter_Great_Red_Spot_Animation.gif
+Resources\Images\jupiter_rings.jpg
+Resources\Images\JUP_magfield_inner.jpg
+Resources\Images\Long_Shadows_on_the_Lunar_Surface_-_GPN-2000-001485.jpg
+Resources\Images\luna8.jpg
+Resources\Images\lunar_surface_ice_1280.jpg
+Resources\Images\lysithea.gif
+Resources\Images\M 37 mid.jpg
+Resources\Images\M100NML.jpg
+Resources\Images\M100NMSSN.jpg
+Resources\Images\M101NMmosaicL.jpg
+Resources\Images\M102M.jpg
+Resources\Images\M103.jpg
+Resources\Images\M104LSL.jpg
+Resources\Images\m105.gif
+Resources\Images\M106NMM.jpg
+Resources\Images\m108.jpg
+Resources\Images\M109JM7.jpg
+Resources\Images\M11.jpg
+Resources\Images\m110.jpg
+Resources\Images\m12.jpg
+Resources\Images\M13_LRGB_11x600s_6x120s_260606_mg.jpg
+Resources\Images\M14_2010_1600.jpg
+Resources\Images\m17x1600ignacio.jpg
+Resources\Images\m18.jpg
+Resources\Images\M20RC_mid.jpg
+Resources\Images\M21.png
+Resources\Images\m24.jpg
+Resources\Images\M25y.jpg
+Resources\Images\m26.jpg
+Resources\Images\M27_111109.jpg
+Resources\Images\M28.jpg
+Resources\Images\m29tmass.jpg
+Resources\Images\m3-stf8300.jpg
+Resources\Images\m32 (1).jpg
+Resources\Images\M33-Subaru-Gendler-M.jpg
+Resources\Images\M34M.jpg
+Resources\Images\M35S.jpg
+Resources\Images\M39.jpg
+Resources\Images\M3JM.jpg
+Resources\Images\M42HeartNMM.jpg
+Resources\Images\M44C.jpg
+Resources\Images\M45STLmosaicS.jpg
+Resources\Images\M46mosaic.jpg
+Resources\Images\M47.jpg
+Resources\Images\M50L.jpg
+Resources\Images\m51NMM.jpg
+Resources\Images\M52NMM.jpg
+Resources\Images\m53.jpg
+Resources\Images\m54.jpg
+Resources\Images\m55.jpg
+Resources\Images\M57-HST-GendlerM.jpg
+Resources\Images\M58JM.jpg
+Resources\Images\m59.gif
+Resources\Images\M6 LHARGB.jpg
+Resources\Images\M60.jpg
+Resources\Images\M61-AUM.jpg
+Resources\Images\M63NMM.jpg
+Resources\Images\M64JM.jpg
+Resources\Images\m65_wendel.jpg
+Resources\Images\M67.jpg
+Resources\Images\m69.JPG
+Resources\Images\m70.jpg
+Resources\Images\m71.jpg
+Resources\Images\M74NMM.jpg
+Resources\Images\m75.gif
+Resources\Images\M76AU.jpg
+Resources\Images\M77NM.jpg
+Resources\Images\M78NMMosaicM.jpg
+Resources\Images\m79.jpg
+Resources\Images\m7_1250.jpg
+Resources\Images\m80.jpg
+Resources\Images\m81.jpg
+Resources\Images\M82NMM.jpg
+Resources\Images\M83AUM.jpg
+Resources\Images\m84.jpg
+Resources\Images\M85.jpg
+Resources\Images\M87NM13L.jpg
+Resources\Images\m88ms_block_crop.jpg
+Resources\Images\m89-578x580.gif
+Resources\Images\M8a1200.jpg
+Resources\Images\M8mosaicE.jpg
+Resources\Images\m9.jpg
+Resources\Images\M90.jpg
+Resources\Images\m91haynes.jpg
+Resources\Images\M92-BYUM.jpg
+Resources\Images\m93rua.jpg
+Resources\Images\M94JM4.jpg
+Resources\Images\M95JMnew2.jpg
+Resources\Images\M96JM.jpg
+Resources\Images\M97.jpg
+Resources\Images\m98.jpg
+Resources\Images\M99JM.jpg
+Resources\Images\map moon 1 (1).gif
+Resources\Images\marathon2008-e.jpg
+Resources\Images\Mars - South Polar Cap.jpg
+Resources\Images\mars.jpg
+Resources\Images\Mars_southern.jpg
+Resources\Images\mars_valley_network_viking.gif
+Resources\Images\merccal.jpg
+Resources\Images\mercury5.jpg
+Resources\Images\mercury_4179_1.jpg
+Resources\Images\Messier 72.jpg
+Resources\Images\Messier-107.jpg
+Resources\Images\Messier-15.jpg
+Resources\Images\messier-19.jpg
+Resources\Images\messier-22.jpg
+Resources\Images\messier-23.jpg
+Resources\Images\messier-30.jpg
+Resources\Images\messier-36.jpg
+Resources\Images\Messier-4.jpg
+Resources\Images\messier-40.jpg
+Resources\Images\Messier-41-NGC-2287.jpg
+Resources\Images\messier-43.jpg
+Resources\Images\messier-48.jpg
+Resources\Images\messier-49.jpg
+Resources\Images\messier-5.jpg
+Resources\Images\messier-66-image-eso.jpg
+Resources\Images\Messier-68.jpg
+Resources\Images\messier-73.jpg
+Resources\Images\messier-86.jpg
+Resources\Images\Messier16(13x480s).jpg
+Resources\Images\messier56_01.jpg
+Resources\Images\Messier_10_Hubble_WikiSky.jpg
+Resources\Images\Messier_2.png
+Resources\Images\Messier_3.jpg
+Resources\Images\Messier_62.jpg
+Resources\Images\moon thebe.jpg
+Resources\Images\moon-surface_00400076.jpg
+Resources\Images\moon.jpg
+Resources\Images\moons-metis.jpg
+Resources\Images\moonSurface.jpg
+Resources\Images\moon_tariuslith.gif
+Resources\Images\neptunes-moons.jpg
+Resources\Images\ngc4565.jpg
+Resources\Images\ngc7662BlueSnowball.jpg
+Resources\Images\NGC_6826.jpg
+Resources\Images\Oberon-False-Colour-Image1.jpg
+Resources\Images\olympus3D.jpg
+Resources\Images\Pasithee_(moon).jpg
+Resources\Images\Pluto-Moon-Charon (1).jpg
+Resources\Images\pluto.jpg
+Resources\Images\pluto_detailed.jpg
+Resources\Images\saturnNEbula.jpg
+Resources\Images\saturn_ball5.jpg
+Resources\Images\sinope.jpg
+Resources\Images\sn-moonsmantle-thumb-800xauto-3699.jpg
+Resources\Images\SolarSystemPosterM.jpg
+Resources\Images\surface-of-moon.jpg
+Resources\Images\tharsis.gif
+Resources\Images\The-Moon.jpg
+Resources\Images\thebe.jpg
+Resources\Images\titania.jpg
+Resources\Images\triton.jpg
+Resources\Images\uranus-keckII.jpg
+Resources\Images\Valles marineris 2.jpg
+Resources\Images\venus-topography.jpg
+Resources\Images\venus_pancakes.jpg
+Resources\Images\venus_sifmons.jpg
+Resources\Images\VirgocomaM.jpg
+Resources\Images\voyager-jupiter_colors.jpg
+Resources\Stylesheets\jMoons.css
+Resources\Stylesheets\Main_page.css
+Resources\Stylesheets\Messier_pages.css
+Resources\Stylesheets\Modern.css
+Resources\Stylesheets\Styles.css
+SkinSupport\MadCap.css
+SkinSupport\Slideshow.css
+SkinSupport\Images\MCSlider_loader.gif
+SkinSupport\Images\MCSlider_controls.png
+SkinSupport\jquery.js
+SkinSupport\MadCapGlobal.js
+SkinSupport\MadCapSlideshow.js
+SkinSupport\MadCapMerging.js
+SkinSupport\MadCapAliasFile.js
+SkinSupport\MadCapUtilities.js
+SkinSupport\MadCapEffects.js
+SkinSupport\MadCapEffectsMenu.js
+SkinSupport\ExpandingOpen.gif
+SkinSupport\ExpandingClosed.gif
+SkinSupport\MadCapBodyEnd.js
+SkinSupport\MadCapBody.js
+SkinSupport\MadCapHighlighter.js
+Resources\Images\SolarSystemPosterM_513x384.jpg
+Resources\Images\earth_366x366.jpg
+Resources\Images\Earth's_Magnetic_Field_Photos_thumb_0_48.jpg
+Resources\Images\Earth's_Magnetic_Field_Photos_283x301.jpg
+Resources\Images\jupiter-clear-view_thumb_0_48.jpg
+Resources\Images\jupiter-clear-view_443x443.jpg
+Resources\Images\voyager-jupiter_colors_thumb_0_48.jpg
+Resources\Images\JUP_magfield_inner_thumb_0_48.jpg
+Resources\Images\JUP_magfield_inner_628x501.jpg
+Resources\Images\jupite&amp;moonsr_thumb_0_48.jpg
+Resources\Images\jupite&amp;moonsr_497x448.jpg
+Resources\Images\jupiter_rings_thumb_0_48.jpg
+Resources\Images\jupiter_rings_381x212.jpg
+Resources\Images\mars_thumb_0_48.jpg
+Resources\Images\mars_593x405.jpg
+Resources\Images\olympus3D_thumb_0_48.jpg
+Resources\Images\olympus3D_213x145.jpg
+Resources\Images\tharsis_thumb_0_48.png
+Resources\Images\tharsis_210x190.gif
+Resources\Images\Valles marineris 2_thumb_0_48.jpg
+Resources\Images\Valles marineris 2_264x162.jpg
+Resources\Images\hellas_thumb_0_48.jpg
+Resources\Images\hellas_272x212.jpg
+Resources\Images\Mars_southern_thumb_0_48.jpg
+Resources\Images\Mars_southern_253x283.jpg
+Resources\Images\mars_valley_network_viking_thumb_0_48.png
+Resources\Images\mars_valley_network_viking_315x237.gif
+Resources\Images\Mars - South Polar Cap_thumb_0_48.jpg
+Resources\Images\Mars - South Polar Cap_322x200.jpg
+Resources\Images\mercury_4179_1_thumb_0_48.jpg
+Resources\Images\mercury_4179_1_477x476.jpg
+Resources\Images\mercury5_thumb_0_48.jpg
+Resources\Images\mercury5_334x294.jpg
+Resources\Images\caloris2_thumb_0_48.jpg
+Resources\Images\caloris2_407x356.jpg
+Resources\Images\detail_neptune_thumb_0_48.jpg
+Resources\Images\detail_neptune_537x363.jpg
+Resources\Images\neptunes-moons_thumb_0_48.jpg
+Resources\Images\neptunes-moons_429x419.jpg
+Resources\Images\pluto_442x435.jpg
+Resources\Images\pluto_detailed_536x426.jpg
+Resources\Images\saturn_ball5_605x465.jpg
+Resources\Images\uranus-keckII_466x513.jpg
+Resources\Images\venus-topography_thumb_0_48.jpg
+Resources\Images\venus-topography_419x419.jpg
+Resources\Images\venus_sifmons_thumb_0_48.jpg
+Resources\Images\venus_sifmons_308x308.jpg
+Resources\Images\venus_pancakes_thumb_0_48.jpg
+Resources\Images\venus_pancakes_305x305.jpg
+Resources\Images\marathon2008-e_thumb_0_48.jpg
+Resources\Images\marathon2008-e_295x275.jpg
+Resources\Images\crab_vlt_big_m1_lk_417x391.jpg
+Resources\Images\Messier_2_437x436.png
+Resources\Images\m3-stf8300_528x399.jpg
+Resources\Images\Messier-4_392x378.jpg
+Resources\Images\messier-5_394x392.jpg
+Resources\Images\M6 LHARGB_545x376.jpg
+Resources\Images\m7_1250_666x442.jpg
+Resources\Images\M8mosaicE_630x402.jpg
+Resources\Images\m9_623x498.jpg
+Resources\Images\Messier_10_Hubble_WikiSky_485x485.jpg
+Resources\Images\M11_448x448.jpg
+Resources\Images\m12_541x398.jpg
+Resources\Images\M13_LRGB_11x600s_6x120s_260606_mg_597x392.jpg
+Resources\Images\M14_2010_1600_592x443.jpg
+Resources\Images\M14_2010_1600_thumb_0_48.jpg
+Resources\Images\Messier-15_494x494.jpg
+Resources\Images\Messier16(13x480s)_581x436.jpg
+Resources\Images\m17x1600ignacio_615x408.jpg
+Resources\Images\m18_446x446.jpg
+Resources\Images\messier-19_485x473.jpg
+Resources\Images\M20RC_mid_431x433.jpg
+Resources\Images\M21_646x419.png
+Resources\Images\messier-22_528x396.jpg
+Resources\Images\messier-23_527x394.jpg
+Resources\Images\m24_592x392.jpg
+Resources\Images\M25y_503x503.jpg
+Resources\Images\m26_444x444.jpg
+Resources\Images\M27_111109_617x414.jpg
+Resources\Images\M28_426x426.jpg
+Resources\Images\m29tmass_543x556.jpg
+Resources\Images\messier-30_502x502.jpg
+Resources\Images\AndromedaRGB12small_540x390.jpg
+Resources\Images\m32 (1)_503x338.jpg
+Resources\Images\M33-Subaru-Gendler-M_582x414.jpg
+Resources\Images\M34M_595x432.jpg
+Resources\Images\M35S_621x412.jpg
+Resources\Images\messier-36_512x512.jpg
+Resources\Images\M 37 mid_552x371.jpg
+Resources\Images\320_570x373.jpg
+Resources\Images\M39_636x494.jpg
+Resources\Images\messier-40_476x476.jpg
+Resources\Images\Messier-41-NGC-2287_321x428.jpg
+Resources\Images\M42HeartNMM_637x422.jpg
+Resources\Images\messier-43_489x489.jpg
+Resources\Images\M44C_649x470.jpg
+Resources\Images\M45STLmosaicS_604x454.jpg
+Resources\Images\M46mosaic_562x499.jpg
+Resources\Images\M47_455x455.jpg
+Resources\Images\messier-49_588x439.jpg
+Resources\Images\M50L_592x411.jpg
+Resources\Images\m51NMM_519x400.jpg
+Resources\Images\M52NMM_628x411.jpg
+Resources\Images\m53_470x470.jpg
+Resources\Images\m54_502x492.jpg
+Resources\Images\m55_557x498.jpg
+Resources\Images\messier56_01_445x455.jpg
+Resources\Images\M57-HST-GendlerM_534x446.jpg
+Resources\Images\M58JM_633x440.jpg
+Resources\Images\m59_471x471.gif
+Resources\Images\M60_602x507.jpg
+Resources\Images\M61-AUM_609x433.jpg
+Resources\Images\Messier_62_456x456.jpg
+Resources\Images\M63NMM_602x448.jpg
+Resources\Images\M64JM_630x420.jpg
+Resources\Images\m65_wendel_625x416.jpg
+Resources\Images\messier-66-image-eso_508x506.jpg
+Resources\Images\M67_691x468.jpg
+Resources\Images\Messier-68_493x505.jpg
+Resources\Images\m69_478x483.jpg
+Resources\Images\m70_479x470.jpg
+Resources\Images\m71_508x508.jpg
+Resources\Images\Messier 72_566x414.jpg
+Resources\Images\messier-73_574x574.jpg
+Resources\Images\M74NMM_604x439.jpg
+Resources\Images\M76AU_598x502.jpg
+Resources\Images\M77NM_615x449.jpg
+Resources\Images\M78NMMosaicM_570x439.jpg
+Resources\Images\m79_596x401.jpg
+Resources\Images\m80_555x416.jpg
+Resources\Images\m81_541x399.jpg
+Resources\Images\M82NMM_593x419.jpg
+Resources\Images\M83AUM_610x482.jpg
+Resources\Images\messier-86_518x388.jpg
+Resources\Images\M87NM13L_684x453.jpg
+Resources\Images\m88ms_block_crop_640x502.jpg
+Resources\Images\M90_576x389.jpg
+Resources\Images\m91haynes_674x448.jpg
+Resources\Images\M92-BYUM_487x467.jpg
+Resources\Images\m93rua_732x479.jpg
+Resources\Images\M94JM4_615x455.jpg
+Resources\Images\M95JMnew2_650x448.jpg
+Resources\Images\M96JM_501x388.jpg
+Resources\Images\M97_595x417.jpg
+Resources\Images\m98_465x465.jpg
+Resources\Images\M99JM_618x414.jpg
+Resources\Images\M100NML_394x409.jpg
+Resources\Images\M101NMmosaicL_495x412.jpg
+Resources\Images\M102M_574x381.jpg
+Resources\Images\M103_529x411.jpg
+Resources\Images\M104LSL_504x485.jpg
+Resources\Images\m105_412x412.gif
+Resources\Images\M106NMM_488x396.jpg
+Resources\Images\Messier-107_373x379.jpg
+Resources\Images\m108_494x352.jpg
+Resources\Images\M109JM7_611x411.jpg
+Resources\Images\m110_484x569.jpg
+Resources\Images\ngc4565_427x299.jpg
+Resources\Images\catseye_464x347.jpg
+Resources\Images\ngc7662BlueSnowball_391x372.jpg
+Resources\Images\NGC_6826_410x410.jpg
+Resources\Images\The-Moon_thumb_0_48.jpg
+Resources\Images\The-Moon_304x304.jpg
+Resources\Images\map moon 1 (1)_thumb_0_48.png
+Resources\Images\map moon 1 (1)_290x290.gif
+Resources\Images\surface-of-moon_thumb_0_48.jpg
+Resources\Images\surface-of-moon_39x39.jpg
+Resources\Images\apollo15_lunar_surface_thumb_0_48.jpg
+Resources\Images\apollo15_lunar_surface_40x40.jpg
+Resources\Images\354439main_road2apollo-16_946-710_thumb_0_48.jpg
+Resources\Images\354439main_road2apollo-16_946-710_51x37.jpg
+Resources\Images\apollo-16-image-of-lunar-surface-stocktrek-images_thumb_0_48.jpg
+Resources\Images\apollo-16-image-of-lunar-surface-stocktrek-images_37x37.jpg
+Resources\Images\moon-surface_00400076_thumb_0_48.jpg
+Resources\Images\moon-surface_00400076_47x25.jpg
+Resources\Images\moonSurface_thumb_0_48.jpg
+Resources\Images\farside_thumb_0_48.png
+Resources\Images\sn-moonsmantle-thumb-800xauto-3699_thumb_0_48.jpg
+Resources\Images\Long_Shadows_on_the_Lunar_Surface_-_GPN-2000-001485_thumb_0_48.jpg
+Resources\Images\luna8_thumb_0_48.jpg
+Resources\Images\moon_thumb_0_48.jpg
+Resources\Images\AS11-40-5875_thumb_0_48.jpg
+Resources\Images\moon_tariuslith_thumb_0_48.png
+Resources\Images\lunar_surface_ice_1280_thumb_0_48.jpg
+Resources\Images\apollo_18_02_thumb_0_48.jpg
+Data\SkinDefault\AddComment.gif
+Data\SkinDefault\AddComment_over.gif
+Data\SkinDefault\AddComment_selected.gif
+Data\SkinDefault\AddSearchToFavorites.gif
+Data\SkinDefault\AddSearchToFavorites_over.gif
+Data\SkinDefault\AddSearchToFavorites_selected.gif
+Data\SkinDefault\Book.gif
+Data\SkinDefault\BookOpen.gif
+Data\SkinDefault\BrowsesequencesIcon.gif
+Data\SkinDefault\Comment.gif
+Data\SkinDefault\CommentReply.gif
+Data\SkinDefault\CommunityIcon.gif
+Data\SkinDefault\Delete.gif
+Data\SkinDefault\Delete_over.gif
+Data\SkinDefault\Delete_selected.gif
+Data\SkinDefault\FavoritesIcon.gif
+Data\SkinDefault\GlossaryIcon.gif
+Data\SkinDefault\header.png
+Data\SkinDefault\IndexHeadingBG.png
+Data\SkinDefault\IndexIcon.gif
+Data\SkinDefault\NavigationBottomGradient.jpg
+Data\SkinDefault\NavigationBottomGradient_selected.jpg
+Data\SkinDefault\NavigationTopGradient.jpg
+Data\SkinDefault\RefreshTopicComments.gif
+Data\SkinDefault\RefreshTopicComments_over.gif
+Data\SkinDefault\RefreshTopicComments_selected.gif
+Data\SkinDefault\ReplyComment.gif
+Data\SkinDefault\ReplyComment_over.gif
+Data\SkinDefault\ReplyComment_selected.gif
+Data\SkinDefault\SearchBG.png
+Data\SkinDefault\SearchIcon.gif
+Data\SkinDefault\Skin.xml
+Data\SkinDefault\Stylesheet.xml
+Data\SkinDefault\TocIcon.gif
+Data\SkinDefault\ToolbarBackground.jpg
+Data\SkinDefault\Topic.gif
+Data\Alias.xml
+HtmlHelp.xml
+Data\HelpSystem.xml
+_Temp.hhc
+_Temp.hhk
+Compile time: 1 minute, 13 seconds
+132	Topics
+524	Local links
+118	Internet links
+0	Graphics
+Created c:\Users\dspencer\Documents\My Projects\Our Universe\Output\dspencer\Temporary\HtmlHelp\Content\HtmlHelp.chm, 91,307,582 bytes
+Compression decreased file by 2,059,868 bytes.
+Generated ../../HtmlHelp/HtmlHelp.chm
+Saving result set...
+Ignored Compiler Warnings: 90
+Output generated in 2 minute(s) and 20 second(s).
+
+Done
+Compiled 1 target(s)
+Saving log to "C:\Users\dspencer\Documents\My Projects\Our Universe\Project\Reports\HtmlHelp - Tuesday, August 19, 2014 [2.21 PM].mclog"
+</Messages>
+    <Warnings />
+    <Errors />
+</MadCapLog>

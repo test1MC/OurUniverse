@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="1"
+  Comment="New Target"
+  Type="MsWord"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  PatchHeadingLevels="true"
+  InjectBookHeadings="true"
+  UseLocalBuildSettings="true">
+  <PrintedOutput
+    CollapseMargins="true" />
+</CatapultTarget>
